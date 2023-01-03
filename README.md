@@ -1,4 +1,4 @@
-# Xposure
+# Trading Signals
 
 ### Welcome to the new age of AI 👋
 This is the starter for the [build your own AI writing assistant w/ GPT-3] project.
@@ -20,5 +20,6 @@ Overall, this assistant would provide users with a powerful tool to optimize the
 
 ### NOTE:
 It's a starter for the project and you have to keep digging
-Also, there's another version of this project where I have added more ideas to the code using another API inside the OpenAI API.
+Also, there's another version of this project where I have added more ideas to the code using another API inside the OpenAI API and I'm calling it Xposure.
+
 Happy Buidling 🎉🛠🔐
